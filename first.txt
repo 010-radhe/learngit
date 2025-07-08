@@ -1,2 +1,3 @@
 hello learnign git hub
-learned sql
+learned python 
+RDS: Redshift - Dyanamo
