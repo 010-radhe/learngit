@@ -1,0 +1,2 @@
+hello learnign git hub
+learned sql
